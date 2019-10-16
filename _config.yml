@@ -1,5 +1,7 @@
 # --- General options --- #
-
+url: "https://bradleyharken.github.io"
+baseurl: ""
+github_repo: "https://github.com/bradleyharken/bradleyharken.github.io/"
 # Name of website
 title: Home
 # Short description of your site
