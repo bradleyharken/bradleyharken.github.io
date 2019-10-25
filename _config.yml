@@ -21,7 +21,7 @@ description: Bradley Harken's website
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  "About Me": "aboutme"
   Maps: 
     - "Maps Home":  "mapshome"
     - "Test/Basic": "map2.html"
