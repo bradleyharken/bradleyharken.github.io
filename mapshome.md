@@ -4,4 +4,4 @@ title: Maps Home
 subtitle: 
 ---
 
-Under construction, more to come...
+[Basic map](map2.html)
