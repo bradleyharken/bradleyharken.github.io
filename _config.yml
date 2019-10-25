@@ -5,7 +5,7 @@ github_repo: "https://github.com/bradleyharken/bradleyharken.github.io/"
 # Name of website
 title: Home
 # Short description of your site
-description: A collection of things I find interesting
+description: Bradley Harken's website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
