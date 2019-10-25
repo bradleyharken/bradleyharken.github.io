@@ -23,6 +23,7 @@ description: A collection of things I find interesting
 navbar-links:
   About: "aboutme"
   Maps: 
+    - "Maps Home":  "mapshome"
     - "Test/Basic": "map2.html"
     - "EWB Fiji Map": "EWB_Fiji_map.html"
 #  Resources:
